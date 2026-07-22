@@ -1,5 +1,3 @@
-Aqui está o texto limpo, sem asteriscos ou aspas, pronto para você copiar e colar no seu arquivo docs/data-model.md:
-
 # Modelagem de Dados
 
 ## Entidades
